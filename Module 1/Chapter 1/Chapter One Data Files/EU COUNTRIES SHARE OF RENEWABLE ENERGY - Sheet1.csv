@@ -1,0 +1,35 @@
+Country,2006,2007,2008,2009,2010,2020 target
+EU27*,9,9.9,10.5,11.7,12.4,20
+Belgium,2.7,3,3.3,4.6,:,13
+Bulgaria,9.6,9.3,9.8,11.9,13.8,16
+Czech Republic,6.5,7.4,7.6,8.5,9.2,13
+Denmark,16.5,18,18.8,20.2,22.2,30
+Germany,6.9,9,9.1,9.5,11,18
+Estonia,16.1,17.1,18.9,23,24.3,25
+Ireland,2.9,3.3,3.9,5.1,5.5,16
+Greece,7,8.1,8,8.1,9.2,18
+Spain,9,9.5,10.6,12.8,13.8,20
+France**,9.6,10.2,11.1,11.9,:,23
+Italy,5.8,5.7,7.1,8.9,10.1,17
+Cyprus,2.5,3.1,4.1,4.6,4.8,13
+Latvia,31.1,29.6,29.8,34.3,32.6,40
+Lithuania,16.9,16.6,17.9,20,19.7,23
+Luxembourg,1.4,2.7,2.8,2.8,2.8,11
+Hungary,5.1,5.9,6.6,8.1,:,13
+Malta,0.2,0.2,0.2,0.2,0.4,10
+Netherlands,2.7,3.1,3.4,4.1,3.8,14
+Austria,26.6,28.9,29.2,31,30.1,34
+Poland,7,7,7.9,8.9,9.4,15
+Portugal,20.8,22,23,24.6,24.6,31
+Romania,17.1,18.3,20.3,22.4,23.4,24
+Slovenia,15.5,15.6,15.1,18.9,19.8,25
+Slovakia,6.6,8.2,8.4,10.4,9.8,14
+Finland,29.9,29.5,31.1,31.1,32.2,38
+Sweden,42.7,44.2,45.2,48.1,47.9,49
+United Kingdom,1.5,1.8,2.3,2.9,3.2,15
+Croatia,13.8,12.4,12.2,13.2,14.6,20
+Norway,60.6,60.5,62,65.1,61.1,67.5
+,,,,,,
+*,EU27 aggregate contain estimates of missing data,,,,,
+** ,"France métropolitaine, excluding the four overseas departments (French Guyana, Guadeloupe, Martinique and Réunion)",,,,,
+: ,Data not available,,,,,

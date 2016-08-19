@@ -1,0 +1,39 @@
+Row,SalesTerritoryKey,SalesTerritoryRegion,SalesTerritoryGroup,SalesTerritoryCountry,CalendarYear,DateKey,SalesAmountQuote
+1,1,Northwest,North America,United States,2006,01/01/2006,2693000
+2,1,Northwest,North America,United States,2007,01/01/2007,4102000
+3,1,Northwest,North America,United States,2008,01/01/2008,2321000
+4,1,Northwest,North America,United States,2005,01/01/2005,1213000
+5,2,Northeast,North America,United States,2005,01/01/2005,923000
+6,2,Northeast,North America,United States,2008,01/01/2008,1718000
+7,2,Northeast,North America,United States,2007,01/01/2007,4716000
+8,2,Northeast,North America,United States,2006,01/01/2006,3805000
+9,3,Central,North America,United States,2006,01/01/2006,4750000
+10,3,Central,North America,United States,2007,01/01/2007,4350000
+11,3,Central,North America,United States,2008,01/01/2008,1661000
+12,3,Central,North America,United States,2005,01/01/2005,1437000
+13,4,Southwest,North America,United States,2005,01/01/2005,2427000
+14,4,Southwest,North America,United States,2008,01/01/2008,3356000
+15,4,Southwest,North America,United States,2007,01/01/2007,7326000
+16,4,Southwest,North America,United States,2006,01/01/2006,6481000
+17,5,Southeast,North America,United States,2006,01/01/2006,2963000
+18,5,Southeast,North America,United States,2007,01/01/2007,2768000
+19,5,Southeast,North America,United States,2008,01/01/2008,1224000
+20,5,Southeast,North America,United States,2005,01/01/2005,1586000
+21,6,Canada,North America,Canada,2005,01/01/2005,1892000
+22,6,Canada,North America,Canada,2008,01/01/2008,2069000
+23,6,Canada,North America,Canada,2007,01/01/2007,3910000
+24,6,Canada,North America,Canada,2006,01/01/2006,3592000
+25,7,France,Europe,France,2006,01/01/2006,1002000
+26,7,France,Europe,France,2007,01/01/2007,2940000
+27,7,France,Europe,France,2008,01/01/2008,1615000
+28,8,Germany,Europe,Germany,2008,01/01/2008,993000
+29,8,Germany,Europe,Germany,2007,01/01/2007,1294000
+30,9,Australia,Pacific,Australia,2007,01/01/2007,867000
+31,9,Australia,Pacific,Australia,2008,01/01/2008,820000
+32,10,United Kingdom,Europe,United Kingdom,2008,01/01/2008,2212000
+33,10,United Kingdom,Europe,United Kingdom,2007,01/01/2007,5142000
+34,10,United Kingdom,Europe,United Kingdom,2006,01/01/2006,3160000
+35,11,NA,NA,NA,2006,01/01/2006,563000
+36,11,NA,NA,NA,2007,01/01/2007,1367000
+37,11,NA,NA,NA,2008,01/01/2008,421000
+38,11,NA,NA,NA,2005,01/01/2005,35000

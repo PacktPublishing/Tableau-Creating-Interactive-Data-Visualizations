@@ -1,0 +1,618 @@
+"CountryID","CountryName","ISO2","ISO3","ISONumeric","FIPS","Continent","TLD","CurrencyCode","CountryCallingCode","IOC","UNLOCODE","CarLicensePlates","NATO2","NATO3","Capital","Area","Population","CountryNameGerman","CountryNameSpain","CountryNameFrance","CountryNameDutch","CountryNamePortuguese","CountryNameItalian","CountryNameBulgarian","CountryNameChinese","CountryNameRussian"
+"1","Afghanistan","AF","AFG","4","AF","AS",".af","AFN","93","AFG","AF","AFG","AF","AFG","Kabul","647500","29121286","Afghanistan","Afganistan","Afghanistan","Afghanistan","Afeganistão","Afghanistan","Афганистан","阿富汗","Афганистан"
+"2","Albania","AL","ALB","8","AL","EU",".al","ALL","355","ALB","AL","AL","AL","ALB","Tirana","28748","2986952","Albanien","Albaania","Albanie","Albanië","Albânia","Albania","Албания","阿爾巴尼亞","Албания"
+"3","Algeria","DZ","DZA","12","AG","AF",".dz","DZD","213","ALG","DZ","DZ","AG","DZA","Algiers","2381740","34586184","Algerien","Alžeeria","Algérie","Algerije","Argélia","Algeria","Алжир","阿爾及利亞","Алжир"
+"4","American Samoa","AS","ASM","16","AQ","OC",".as","USD","-683","ASA","AS","NULL","SS","ASM","Pago Pago","199","57881","Amerikanisch-Samoa","Ameerika Samoa","Samoa américaines","Amerikaans-Samoa","Samoa Americana","Samoa americane","Американска Самоа","美屬薩摩亞","Американское Самоа"
+"5","Andorra","AD","AND","20","AN","EU",".ad","EUR","376","AND","AD","AND","AN","AND","Andorra la Vella","468","84000","Andorra","Andorra","Andorre","Andorra","Andorra","Andorra","Андора","安道爾","Андорра"
+"6","Angola","AO","AGO","24","AO","AF",".ao","AOA","244","ANG","AO","ANG","AO","AGO","Luanda","1246700","13068161","Angola","Angola","Angola","Angola","Angola","Angola","Ангола","安哥拉","Ангола"
+"7","Anguilla","AI","AIA","660","AV","NA",".ai","XCD","-263","NULL","AI","AXA","AV","AIA","The Valley","102","13254","Anguilla","Anguilla","Anguilla","Anguilla","Anguilla","Anguilla","Ангуила","安圭拉","Ангилья"
+"8","Antigua and Barbuda","AG","ATG","28","AC","NA",".ag","XCD","-267","ANT","AG","AG","AC","ATG","St. John's","443","86754","Antigua und Barbuda","Antigua ja Barbuda","Antigua et Barbuda","Antigua en Barbuda","Antígua e Barbuda","Antigua e Barbuda","Антигуа и Барбуда","安地卡及巴布達","Антигуа и Барбуда"
+"9","Argentina","AR","ARG","32","AR","SA",".ar","ARS","54","ARG","AR","RA","AR","ARG","Buenos Aires","2766890","41343201","Argentinien","Argentina","Argentine","Argentinië","Argentina","Argentina","Аржентина","阿根廷","Аргентина"
+"10","Armenia","AM","ARM","51","AM","AS",".am","AMD","374","ARM","AM","ARM","AM","ARM","Yerevan","29800","2968000","Armenien","Armeenia","Arménie","Armenië","Armênia","Armenia","Армения","亞美尼亞","Армения"
+"11","Aruba","AW","ABW","533","AA","NA",".aw","AWG","297","ARU","AW","NULL","AA","ABW","Oranjestad","193","71566","Aruba","Aruba","Aruba","Aruba","Aruba","Aruba","Аруба","阿路巴","Аруба"
+"12","Australia","AU","AUS","36","AS","OC",".au","AUD","61","AUS","AU","AUS","AS","AUS","Canberra","7686850","21515754","Australien","Austraalia","Australie","Australië","Austrália","Australia","Австралия","澳大利亞","Австралия"
+"13","Austria","AT","AUT","40","AU","EU",".at","EUR","43","AUT","AT","A","AU","AUT","Vienna","83858","8205000","Österreich","Austria","Autriche","Oostenrijk","Áustria","Austria","Австрия","奧地利","Австрия"
+"14","Azerbaijan","AZ","AZE","31","AJ","AS",".az","AZN","994","AZE","AZ","AZ","AJ","AZE","Baku","86600","8303512","Aserbaidschan","Aserbaidžaan","Azerbaïdjan","Azerbeidzjan","Azerbaijão","Azerbaigian","Азербайджан","亞塞拜然","Азербайджан"
+"15","Bahamas","BS","BHS","44","BF","NA",".bs","BSD","-241","BAH","BS","BS","BF","BHS","Nassau","13940","301790","Bahamas","Bahama","Bahamas","Bahama 's","Bahamas","Bahamas","Бахамски острови","巴哈馬","Багамские острова"
+"16","Bangladesh","BD","BGD","50","BG","AS",".bd","BDT","880","BAN","BD","BD","BG","BGD","Dhaka","144000","156118464","Bangladesch","Bangladesh","Bangladesh","Bangladesh","Bangladesh","Bangladesh","Бангладеш","孟加拉國","Бангладеш"
+"17","Barbados","BB","BRB","52","BB","NA",".bb","BBD","-245","BAR","BB","BDS","BB","BRB","Bridgetown","431","285653","Barbados","Barbados","Barbade","Barbados","Barbados","Barbados","Барбадос","巴巴多斯","Барбадос"
+"18","Belarus","BY","BLR","112","BO","EU",".by","BYR","375","BLR","BY","BY","BO","BLR","Minsk","207600","9685000","Belarus","Valgevene","Biélorussie","Wit-Rusland","Belarus","Belarus","Беларус","白俄羅斯","Беларусь"
+"19","Belgium","BE","BEL","56","BE","EU",".be","EUR","32","BEL","BE","B","BE","BEL","Brussels","30510","10403000","Belgien","Belgia","Belgique","België","Bélgica","Belgio","Белгия","比利時","Бельгия"
+"20","Belize","BZ","BLZ","84","BH","NA",".bz","BZD","501","BIZ","BZ","BZ","BH","BLZ","Belmopan","22966","314522","Belize","Belize","Belize","Belize","Belize","Belize","Белиз","貝里斯","Белиз"
+"21","Benin","BJ","BEN","204","BN","AF",".bj","XOF","229","BEN","BJ","BJ","BN","BEN","Porto-Novo","112620","9056010","Benin","Benin","Bénin","Benin","Benin","Benin","Бенин","貝寧","Бенин"
+"22","Bermuda","BM","BMU","60","BD","NA",".bm","BMD","-440","BER","BM","NULL","BD","BMU","Hamilton","53","65365","Bermuda","Bermuda","Bermudes","Bermuda","Bermuda","Bermuda","Бермудски острови","百慕達","Бермудские острова"
+"23","Bhutan","BT","BTN","64","BT","AS",".bt","BTN","975","BHU","BT","BHT","BT","BTN","Thimphu","47000","699847","Bhutan","Bhutan","Bhoutan","Bhutan","Butão","Bhutan","Бутан","不丹","Бутан"
+"24","Bolivia","BO","BOL","68","BL","SA",".bo","BOB","591","BOL","BO","BOL","BL","BOL","Sucre","1098580","9947418","Bolivien","Boliivia","Bolivie","Bolivia","Bolívia","Bolivia","Боливия","玻利維亞","Боливия"
+"26","Botswana","BW","BWA","72","BC","AF",".bw","BWP","267","BOT","BW","RB","BC","BWA","Gaborone","600370","2029307","Botswana","Botswana","Botswana","Botswana","Botswana","Botswana","Ботсвана","博茨瓦納","Ботсвана"
+"27","Brazil","BR","BRA","76","BR","SA",".br","BRL","55","BRA","BR","BR","BR","BRA","Brasilia","8511965","201103330","Brazilien","Brasiilia","Brésil","Brazilië","Brasil","Brasile","Бразилия","巴西","Бразилия"
+"28","British Virgin Islands","VG","VGB","92","VI","NA",".vg","USD","-283","IVB","VG","NULL","VS","VGB","Road Town","153","21730","Britische Jungferninseln","Briti Neitsisaared","Îles Vierges britanniques","Britse Maagdeneilanden","Ilhas Virgens Britânicas","Isole Vergini britanniche","Британски Вирджински острови","英屬維爾京群島","Британские Виргинские острова"
+"29","Brunei","BN","BRN","96","BX","AS",".bn","BND","673","BRU","BN","BRU","BX","BRN","Bandar Seri Begawan","5770","395027","Brunei","Brunei","Brunei","Brunei","Brunei","Brunei","Бруней","汶萊","Бруней"
+"30","Bulgaria","BG","BGR","100","BU","EU",".bg","BGN","359","BUL","BG","BG","BU","BGR","Sofia","110910","7148785","Bulgarien","Bulgaaria","Bulgarie","Bulgarije","Bulgária","Bulgaria","България","保加利亞","Болгария"
+"31","Burkina Faso","BF","BFA","854","UV","AF",".bf","XOF","226","BUR","BF","BF","UV","BFA","Ouagadougou","274200","16241811","Burkina Faso","Burkina Faso","Burkina Faso","Burkina Faso","Burkina Faso","Burkina Faso","Буркина Фасо","布吉納法索","Буркина-Фасо"
+"32","Burundi","BI","BDI","108","BY","AF",".bi","BIF","257","BDI","BI","RU","BY","BDI","Bujumbura","27830","9863117","Burundi","Burundi","Burundi","Burundi","Burundi","Burundi","Бурунди","蒲隆地","Бурунди"
+"33","Cambodia","KH","KHM","116","CB","AS",".kh","KHR","855","CAM","KH","K","CB","KHM","Phnom Penh","181040","14453680","Kambodscha","Kambodža","Cambodge","Cambodja","Camboja","Cambogia","Камбоджа","柬埔寨","Камбоджа"
+"34","Canada","CA","CAN","124","CA","NA",".ca","CAD","1","CAN","CA","CDN","CA","CAN","Ottawa","9984670","33679000","Kanada","Kanada","Canada","Canada","Canadá","Canada","Канада","加拿大","Канада"
+"35","Cape Verde","CV","CPV","132","CV","AF",".cv","CVE","238","CPV","CV","CV","CV","CPV","Praia","4033","508659","Kap Verde","Cabo Verde","Cap-Vert","Cape Verde","Cabo Verde","Capo Verde","Кабо Верде","維德角","Кабо-Верде"
+"36","Cayman Islands","KY","CYM","136","CJ","NA",".ky","KYD","-344","CAY","KY","NULL","CJ","CYM","George Town","262","44270","Cayman-Inseln","Kaimani saared","Îles Caïmanes","Cayman eilanden","Ilhas Cayman","Isole Cayman","Кайманови острови","開曼群島","Каймановы острова"
+"37","Central African Republic","CF","CAF","140","CT","AF",".cf","XAF","236","CAF","CF","RCA","CT","CAF","Bangui","622984","4844927","Zentralafrikanische Republik","Kesk-Aafrika Vabariik","République centrafricaine","Centraal-Afrikaanse Republiek","República Centro-Africana","Repubblica Centrafricana","Централноафриканска република","中非共和國","Центральноафриканская Республика"
+"38","Chad","TD","TCD","148","CD","AF",".td","XAF","235","CHA","TD","TD","CD","TCD","N'Djamena","1284000","10543464","Tschad","Tšaad","Tchad","Tsjaad","Chade","Ciad","Чад","乍得","Чад"
+"39","Chile","CL","CHL","152","CI","SA",".cl","CLP","56","CHI","CL","RCH","CI","CHL","Santiago","756950","16746491","Chile","Tšiili","Chili","Chili","Chile","Cile","Чили","智利","Чили"
+"40","Colombia","CO","COL","170","CO","SA",".co","COP","57","COL","CO","CO","CO","COL","Bogota","1138910","44205293","Kolumbien","Colombia","Colombie","Colombia","Colômbia","Colombia","Колумбия","哥倫比亞","Колумбия"
+"41","Comoros","KM","COM","174","CN","AF",".km","KMF","269","COM","KM","COM","CN","COM","Moroni","2170","773407","Komoren","Komoorid","Comores","Comoren","Comores","Comore","Коморски острови","科摩羅","Коморские острова"
+"42","Cook Islands","CK","COK","184","CW","OC",".ck","NZD","682","COK","CK","NULL","CW","COK","Avarua","240","21388","Cook-Inseln","Cooki saared","Îles Cook","Cookeilanden","Ilhas Cook","Isole Cook","Острови Кук","科克群島","Острова Кука"
+"43","Costa Rica","CR","CRI","188","CS","NA",".cr","CRC","506","CRC","CR","CR","CS","CRI","San Jose","51100","4516220","Costa Rica","Costa Rica","Costa Rica","Costa Rica","Costa Rica","Costa Rica","Коста Рика","哥斯大黎加","Коста-Рика"
+"44","Croatia","HR","HRV","191","HR","EU",".hr","HRK","385","CRO","HR","HR","HR","HRV","Zagreb","56542","4491000","Kroatien","Horvaatia","Croatie (Hrvatska)","Kroatië","Croácia","Croazia","Хърватия","克羅地亞","Хорватия"
+"45","Cuba","CU","CUB","192","CU","NA",".cu","CUP","53","CUB","CU","C","CU","CUB","Havana","110860","11423000","Kuba","Kuuba","Cuba","Cuba","Cuba","Cuba","Куба","古巴","Куба"
+"46","Cyprus","CY","CYP","196","CY","EU",".cy","EUR","357","CYP","CY","CY","CY","CYP","Nicosia","9250","1102677","Zypern","Küpros","Chypre","Cyprus","Chipre","Cipro","Кипър","賽普勒斯","Кипр"
+"47","Czech Republic","CZ","CZE","203","EZ","EU",".cz","CZK","420","CZE","CZ","CZ","CZ","CZE","Prague","78866","10476000","Tschechische Republik","Tšehhi Vabariik","République tchèque","Tsjechische Republiek","República Tcheca","Repubblica Ceca","Чешка република","捷克共和國","Чешская Республика"
+"48","Democratic Republic of the Congo","CD","COD","180","CG","AF",".cd","CDF","243","COD","CD","CGO","CG","COD","Kinshasa","2345410","70916439","Demokratische Republik Kongo","Kongo Demokraatlik Vabariik","République démocratique du Congo","Democratische Republiek Congo","República Democrática do Congo","Repubblica democratica del Congo","Демократична република Конго","剛果民主主義共和國","Демократическая Республика Конго"
+"49","Denmark","DK","DNK","208","DA","EU",".dk","DKK","45","DEN","DK","DK","DA","DNK","Copenhagen","43094","5484000","Dänemark","Taani","Danemark","Denemarken","Dinamarca","Danimarca","Дания","丹麥","Дания"
+"50","Djibouti","DJ","DJI","262","DJ","AF",".dj","DJF","253","DJI","DJ","DJI","DJ","DJI","Djibouti","23000","740528","Dschibuti","Djibouti","Djibouti","Djibouti","Djibouti","Gibuti","Джибути","吉布地","Джибути"
+"51","Dominica","DM","DMA","212","DO","NA",".dm","XCD","-766","DMA","DM","WD","DO","DMA","Roseau","754","72813","Dominica","Dominica Ühendus","Dominique","Dominica","Dominica","Dominica","Доминика","多米尼克","Доминика"
+"52","Dominican Republic","DO","DOM","214","DR","NA",".do","DOP","-808","DOM","DO","DOM","DR","DOM","Santo Domingo","48730","9823821","Dominikanische Republik","Dominikaani Vabariik","République dominicaine","Dominicaanse Republiek","República Dominicana","Repubblica Dominicana","Доминиканска република","多明尼加共和國","Доминиканская Республика"
+"53","Ecuador","EC","ECU","218","EC","SA",".ec","USD","593","ECU","EC","EC","EC","ECU","Quito","283560","14790608","Ecuador","Ecuador","Équateur","Ecuador","Equador","Ecuador","Еквадор","厄瓜多爾","Эквадор"
+"54","Egypt","EG","EGY","818","EG","AF",".eg","EGP","20","EGY","EG","ET","EG","EGY","Cairo","1001450","80471869","Ägypten","Egiptus","Égypte","Egypte","Egito","Egitto","Египет","埃及","Египет"
+"55","El Salvador","SV","SLV","222","ES","NA",".sv","USD","503","ESA","SV","ES","ES","SLV","San Salvador","21040","6052064","El Salvador","El Salvador","Salvador","El Salvador","El Salvador","El Salvador","Салвадор","薩爾瓦多","Сальвадор"
+"56","Equatorial Guinea","GQ","GNQ","226","EK","AF",".gq","XAF","240","GEQ","GQ","NULL","EK","GNQ","Malabo","28051","1014999","Äquatorial-Guinea","Ekvatoriaal-Guinea","La Guinée équatoriale","Equatoriaal-Guinea","Guiné Equatorial","Guinea equatoriale","Екваториална Гвинея","赤道幾內亞","Экваториальная Гвинея"
+"57","Eritrea","ER","ERI","232","ER","AF",".er","ERN","291","ERI","ER","ER","ER","ERI","Asmara","121320","5792984","Eritrea","Eritrea","L'Érythrée","Eritrea","Eritreia","Eritrea","Еритрея","厄立特里亞","Эритрея"
+"58","Estonia","EE","EST","233","EN","EU",".ee","EUR","372","EST","EE","EST","EN","EST","Tallinn","45226","1291170","Estland","Eesti","Estonie","Estland","Estônia","Estonia","Естония","愛沙尼亞","Эстония"
+"59","Ethiopia","ET","ETH","231","ET","AF",".et","ETB","251","ETH","ET","ETH","ET","ETH","Addis Ababa","1127127","88013491","Äthiopien","Etioopia","Ethiopie","Ethiopië","Etiópia","Etiopia","Етиопия","埃塞俄比亞","Эфиопия"
+"60","Falkland Islands","FK","FLK","238","FK","SA",".fk","FKP","500","NULL","FK","NULL","FK","FLK","Stanley","12173","2638","Falkland-Inseln","Falklandi saared","Îles Falkland","Falkland eilanden","Libra de Ilhas Falkland","Libbra degli isole Falkalnd","Фолкландски острови","福克蘭群島","Фолклендские острова"
+"61","Faroe Islands","FO","FRO","234","FO","EU",".fo","DKK","298","FRO","FO","FO","FO","FRO","Torshavn","1399","48228","Färöer Inseln","Fääri saared","Féroé (îles)","Faeröereilanden","Ilhas Faroés","Isole Faroe","Фарьорски острови","法羅群島","Фарерские о-ва"
+"62","Fiji","FJ","FJI","242","FJ","OC",".fj","FJD","679","FIJ","FJ","FJI","FJ","FJI","Suva","18270","875983","Fidschi","Fidži","Fidji","Fiji","Fiji","Fiji","Фиджи","斐濟","Фиджи"
+"63","Finland","FI","FIN","246","FI","EU",".fi","EUR","358","FIN","FI","FIN","FI","FIN","Helsinki","337030","5244000","Finnland","Soome","Finlande","Finland","Finlândia","Finlandia","Финландия","芬蘭","Финляндия"
+"64","France","FR","FRA","250","FR","EU",".fr","EUR","33","FRA","FR","F","FR","FRA","Paris","547030","64768389","Frankreich","Prantsusmaa","France","Frankrijk","França","Francia","Франция","法國","Франция"
+"65","French Polynesia","PF","PYF","258","FP","OC",".pf","XPF","689","NULL","PF","NULL","FP","PYF","Papeete","4167","270485","Französisch-Polynesien","Prantsuse Polüneesia","Polynésie française","Frans-Polynesië","Polinésia francesa","Polinesia francese","Френска Полинезия","法屬玻里尼西亞","Французская Полинезия"
+"66","Gabon","GA","GAB","266","GB","AF",".ga","XAF","241","GAB","GA","G","GB","GAB","Libreville","267667","1545255","Gabun","Gabon","Gabon","Gabon","Gabão","Gabon","Габон","加蓬","Габон"
+"67","Georgia","GE","GEO","268","GG","AS",".ge","GEL","995","GEO","GE","GE","GG","GEO","Tbilisi","69700","4630000","Georgien","Gruusia","Géorgie","Georgië","Geórgia","Georgia","Грузия","格魯吉亞","Грузия"
+"68","Germany","DE","DEU","276","GM","EU",".de","EUR","49","GER","DE","D","GE","DEU","Berlin","357021","81802257","Deutschland","Saksamaa","Allemagne","Duitsland","Alemanha","Germania","Германия","德國","Германия"
+"69","Ghana","GH","GHA","288","GH","AF",".gh","GHS","233","GHA","GH","GH","GH","GHA","Accra","239460","24339838","Ghana","Ghana","Ghana","Ghana","Gana","Ghana","Гана","加納","Гана"
+"70","Gibraltar","GI","GIB","292","GI","EU",".gi","GIP","350","NULL","GI","GBZ","GI","GIB","Gibraltar","41400","27884","Gibraltar","Gibraltar","Gibraltar","Gibraltar","Gibraltar","Gibilterra","Гибралтар","直布羅陀","Гибралтар"
+"71","Greece","GR","GRC","300","GR","EU",".gr","EUR","30","GRE","GR","GR","GR","GRC","Athens","131940","11000000","Griechenland","Kreeka","Grèce","Griekenland","Grécia","Grecia","Гърция","希臘","Греция"
+"72","Greenland","GL","GRL","304","GL","NA",".gl","DKK","299","NULL","GL","KN","GL","GRL","Nuuk","2166086","56375","Grönland","Gröönimaa","Groenland","Groenland","Gronelândia","Groenlandia","Гренландия","格陵蘭島","Гренландия"
+"73","Grenada","GD","GRD","308","GJ","NA",".gd","XCD","-472","GRN","GD","WG","GJ","GRD","St. George's","344","107818","Grenada","Grenada","Grenade","Grenada","Grenada","Grenada","Гренада","格瑞那達","Гренада"
+"74","Guadeloupe","GP","GLP","312","GP","NA",".gp","EUR","590","NULL","GP","NULL","GP","GLP","Basse-Terre","1780","443000","Guadeloupe","Guadeloupe","Guadeloupe","Guadeloupe","Guadalupe","Guadalupa","Гваделупа","哥德洛普島","Гваделупа"
+"75","Guam","GU","GUM","316","GQ","OC",".gu","USD","-670","GUM","GU","NULL","GQ","GUM","Hagatna","549","159358","Guam","Guam","Guam","Guam","Guam","Guam","Гуам","關島","Гуам"
+"76","Guatemala","GT","GTM","320","GT","NA",".gt","GTQ","502","GUA","GT","GCA","GT","GTM","Guatemala City","108890","13550440","Guatemala","Guatemala","Guatemala","Guatemala","Guatemala","Guatemala","Гватемала","瓜地馬拉","Гватемала"
+"78","Guinea","GN","GIN","324","GV","AF",".gn","GNF","224","GUI","GN","RG","GV","GIN","Conakry","245857","10324025","Guinea","Guinea","Guinée","Guinea","Guiné","Guinea","Гвинея","幾內亞","Гвинея"
+"79","Guinea-Bissau","GW","GNB","624","PU","AF",".gw","XOF","245","GBS","GW","GUB","PU","GNB","Bissau","36120","1565126","Guinea-Bissau","Guinea-Bissau","Guinée-Bissau","Guinee-Bissau","Guiné-Bissau","Guinea-Bissau","Гвинея-Бисау","幾內亞比索","Гвинея-Бисау"
+"80","Guyana","GY","GUY","328","GY","SA",".gy","GYD","592","GUY","GY","GUY","GY","GUY","Georgetown","214970","748486","Guyana","Guyana","Guyana","Guyana","Guiana","Guyana","Гвиана","蓋亞納","Гайана"
+"81","Haiti","HT","HTI","332","HA","NA",".ht","HTG","509","HAI","HT","RH","HA","HTI","Port-au-Prince","27750","9648924","Haiti","Haiti","Haïti","Haïti","Haiti","Haiti","Хаити","海地","Гаити"
+"82","Honduras","HN","HND","340","HO","NA",".hn","HNL","504","HON","HN","HN","HO","HND","Tegucigalpa","112090","7989415","Honduras","Honduras","Honduras","Honduras","Honduras","Honduras","Хондурас","宏都拉斯","Гондурас"
+"83","Hong Kong","HK","HKG","344","HK","AS",".hk","HKD","852","HKG","HK","HK","HK","HKG","Hong Kong","1092","6898686","Hong Kong","Hong Kong","Hong Kong","Hong Kong","Hong Kong","Hong Kong","Хонконг","香港","Гонконг"
+"84","Hungary","HU","HUN","348","HU","EU",".hu","HUF","36","HUN","HU","H","HU","HUN","Budapest","93030","9930000","Ungarn","Ungari","Hongrie","Hongarije","Hungria","Ungheria","Унгария","匈牙利","Венгрия"
+"85","Iceland","IS","ISL","352","IC","EU",".is","ISK","354","ISL","IS","IS","IC","ISL","Reykjavik","103000","308910","Island","Island","Islande","IJsland","Islândia","Islanda","Исландия","冰島","Исландия"
+"86","India","IN","IND","356","IN","AS",".in","INR","91","IND","IN","IND","IN","IND","New Delhi","3287590","1173108018","Indien","India","Inde","India","Índia","India","Индия","印度","Индия"
+"87","Indonesia","ID","IDN","360","ID","AS",".id","IDR","62","INA","ID","RI","ID","IDN","Jakarta","1919440","242968342","Indonesien","Indoneesia","Indonésie","Indonesië","Indonésia","Indonesia","Индонезия","印尼","Индонезия"
+"88","Iran","IR","IRN","364","IR","AS",".ir","IRR","98","IRI","IR","IR","IR","IRN","Tehran","1648000","76923300","Iran","Iraan","Iran","Iran","Irã","Iran","Иран","伊朗","Иран"
+"89","Iraq","IQ","IRQ","368","IZ","AS",".iq","IQD","964","IRQ","IQ","IRQ","IZ","IRQ","Baghdad","437072","29671605","Irak","Iraak","Irak","Irak","Iraque","Iraq","Ирак","伊拉克","Ирак"
+"90","Ireland","IE","IRL","372","EI","EU",".ie","EUR","353","IRL","IE","IRL","EI","IRL","Dublin","70280","4622917","Irland","Iirimaa","Irlande","Ierland","Irlanda","Irlanda","Ирландия","愛爾蘭","Ирландия"
+"91","Israel","IL","ISR","376","IS","AS",".il","ILS","972","ISR","IL","IL","IS","ISR","Jerusalem","20770","7353985","Israel","Iisrael","Israël","Israël","Israel","Israele","Израел","以色列","Израиль"
+"92","Italy","IT","ITA","380","IT","EU",".it","EUR","39","ITA","IT","I","IT","ITA","Rome","301230","60340328","Italien","Itaalia","Italie","Italië","Itália","Italia","Италия","義大利","Италия"
+"93","Jamaica","JM","JAM","388","JM","NA",".jm","JMD","-875","JAM","JM","JA","JM","JAM","Kingston","10991","2847232","Jamaika","Jamaica","Jamaïque","Jamaica","Jamaica","Giamaica","Ямайка","牙買加","Ямайка"
+"94","Japan","JP","JPN","392","JA","AS",".jp","JPY","81","JPN","JP","J","JA","JPN","Tokyo","377835","127288000","Japan","Jaapan","Japon","Japan","Japão","Giappone","Япония","日本","Япония"
+"95","Jordan","JO","JOR","400","JO","AS",".jo","JOD","962","JOR","JO","JOR","JO","JOR","Amman","92300","6407085","Jordanien","Jordaania","Jordanie","Jordanië","Jordânia","Giordania","Йордания","約旦","Иордания"
+"96","Kazakhstan","KZ","KAZ","398","KZ","AS",".kz","KZT","7","KAZ","KZ","KZ","KZ","KAZ","Astana","2717300","15340000","Kasachstan","Kasahstan","Kazakhstan","Kazachstan","Cazaquistão","Kazakhstan","Казахстан","哈薩克斯坦","Казахстан"
+"97","Kenya","KE","KEN","404","KE","AF",".ke","KES","254","KEN","KE","EAK","KE","KEN","Nairobi","582650","40046566","Kenia","Kenya","Kenya","Kenia","Quênia","Kenia","Кения","肯雅","Кения"
+"98","Kiribati","KI","KIR","296","KR","OC",".ki","AUD","686","KIR","KI","KIR","KR","KIR","Tarawa","811","92533","Kiribati","Kiribati","Kiribati","Kiribati","Kiribati","Kiribati","Кирибати","吉里巴斯","Кирибати"
+"99","Kuwait","KW","KWT","414","KU","AS",".kw","KWD","965","KUW","KW","KWT","KU","KWT","Kuwait City","17820","2789132","Kuwait","Kuveit","Koweït","Koeweit","Kuaite","Kuwait","Кувейт","科威特","Кувейт"
+"100","Kyrgyzstan","KG","KGZ","417","KG","AS",".kg","KGS","996","KGZ","KG","KS","KG","KGZ","Bishkek","198500","5508626","Kirgistan","Kõrgõzstan","Kirghizistan","Kirgizië","Quirguistão","Kirghizistan","Киргизстан","吉爾吉斯斯坦","Киргизия"
+"101","Laos","LA","LAO","418","LA","AS",".la","LAK","856","LAO","LA","LAO","LA","LAO","Vientiane","236800","6368162","Laos","Laos","Laos","Laos","Laos","Laos","Лаос","老撾","Лаос"
+"102","Latvia","LV","LVA","428","LG","EU",".lv","LVL","371","LAT","LV","LV","LG","LVA","Riga","64589","2217969","Lettland","Läti","Lettonie","Letland","Letônia","Lettonia","Латвия","拉托維亞","Латвия"
+"103","Lebanon","LB","LBN","422","LE","AS",".lb","LBP","961","LIB","LB","RL","LE","LBN","Beirut","10400","4125247","Libanon","Liibanon","Liban","Libanon","Líbano","Libano","Ливан","黎巴嫩","Ливан"
+"104","Lesotho","LS","LSO","426","LT","AF",".ls","LSL","266","LES","LS","LS","LT","LSO","Maseru","30355","1919552","Lesotho","Lesotho","Lesotho","Lesotho","Lesoto","Lesotho","Лесото","賴索托","Лесото"
+"105","Liberia","LR","LBR","430","LI","AF",".lr","LRD","231","LBR","LR","NULL","LI","LBR","Monrovia","111370","3685076","Liberia","Libeeria","Libéria","Liberia","Libéria","Liberia","Либерия","賴比瑞亞","Либерия"
+"106","Libya","LY","LBY","434","LY","AF",".ly","LYD","218","LBA","LY","NULL","LY","LBY","Tripolis","1759540","6461454","Libyen","Liibüa","Libye","Libië","Líbia","Libia","Либия","利比亞","Ливия"
+"107","Liechtenstein","LI","LIE","438","LS","EU",".li","CHF","423","LIE","LI","FL","LS","LIE","Vaduz","160","35000","Liechtenstein","Liechtenstein","Liechtenstein","Liechtenstein","Liechtenstein","Liechtenstein","Лихтенщайн","列支敦斯登","Лихтенштейн"
+"108","Lithuania","LT","LTU","440","LH","EU",".lt","LTL","370","LTU","LT","LT","LH","LTU","Vilnius","65200","3565000","Litauen","Leedu","Lituanie","Litouwen","Lituânia","Lituania","Литва","立陶宛","Литва"
+"109","Luxembourg","LU","LUX","442","LU","EU",".lu","EUR","352","LUX","LU","L","LU","LUX","Luxembourg","2586","497538","Luxemburg","Luksemburg","Luxembourg","Luxemburg","Luxemburgo","Lussemburgo","Люксембург","盧森堡","Люксембург"
+"110","Madagascar","MG","MDG","450","MA","AF",".mg","MGA","261","MAD","MG","RM","MA","MDG","Antananarivo","587040","21281844","Madagaskar","Madagaskar","Madagascar","Madagaskar","Madagascar","Madagascar","Мадагаскар","馬達加斯加","Мадагаскар"
+"111","Malawi","MW","MWI","454","MI","AF",".mw","MWK","265","MAW","MW","MW","MI","MWI","Lilongwe","118480","15447500","Malawi","Malawi","Malawi","Malawi","Malawi","Malawi","Малави","馬拉威","Малави"
+"112","Malaysia","MY","MYS","458","MY","AS",".my","MYR","60","MAS","MY","MAL","MY","MYS","Kuala Lumpur","329750","28274729","Malaysien","Malaisia","Malaisie","Maleisië","Malásia","Malaysia","Малайзия","馬來西亞","Малайзия"
+"113","Maldives","MV","MDV","462","MV","AS",".mv","MVR","960","MDV","MV","NULL","MV","MDV","Male","300","395650","Malediven","Maldiivid","Maldives","Maldiven","Maldivas","Maldive","Малдиви","馬爾地夫","Мальдивские острова"
+"114","Mali","ML","MLI","466","ML","AF",".ml","XOF","223","MLI","ML","RMM","ML","MLI","Bamako","1240000","13796354","Mali","Mali","Mali","Mali","Mali","Mali","Мали","馬里","Мали"
+"115","Malta","MT","MLT","470","MT","EU",".mt","EUR","356","MLT","MT","M","MT","MLT","Valletta","316","403000","Malta","Malta","Malte","Malta","Malta","Malta","Малта","馬爾他","Мальта"
+"117","Marshall Islands","MH","MHL","584","RM","OC",".mh","USD","692","MHL","MH","MH","RM","MHL","Majuro","","65859","Marshall-Inseln","Marshalli saared","Îles Marshall","Marshall eilanden","Ilhas Marshall","Isole Marshall","Маршалови острови","馬紹爾群島","Маршалловы Острова"
+"118","Martinique","MQ","MTQ","474","MB","NA",".mq","EUR","596","NULL","MQ","NULL","MB","MTQ","Fort-de-France","1100","432900","Martinique","Martinique","Martinique","Martinique","Martinica","Martinica","Мартиника","馬丁尼克島","Мартиника"
+"119","Mauritania","MR","MRT","478","MR","AF",".mr","MRO","222","MTN","MR","RIM","MR","MRT","Nouakchott","1030700","3205060","Mauretanien","Mauritaania","Mauritanie","Mauritanië","Mauritânia","Mauritania","Мавритания","茅利塔尼亞","Мавритания"
+"120","Mauritius","MU","MUS","480","MP","AF",".mu","MUR","230","MRI","MU","MS","MP","MUS","Port Louis","2040","1294104","Mauritius","Mauritius","Maurice","Mauritius","Maurício","Mauritius","Мавриций","模里西斯","Маврикий"
+"121","Mayotte","YT","MYT","175","MF","AF",".yt","EUR","262","NULL","YT","NULL","ME","MYT","Mamoudzou","374","159042","Mayotte","Mayotte","Mayotte","Mayotte","Mayotte","Mayotte","Майот","馬約特","Майотта"
+"122","Mexico","MX","MEX","484","MX","NA",".mx","MXN","52","MEX","MX","MEX","MX","MEX","Mexico City","1972550","112468855","Mexiko","Mehhiko","Mexique","Mexico","México","Messico","Мексико","墨西哥","Мексика"
+"123","Monaco","MC","MCO","492","MN","EU",".mc","EUR","377","MON","MC","MC","MN","MCO","Monaco","34700","32965","Monaco","Monaco","Monaco","Monaco","Monaco","Monaco","Монако","摩納哥","Монако"
+"124","Mongolia","MN","MNG","496","MG","AS",".mn","MNT","976","MGL","MN","MGL","MG","MNG","Ulan Bator","1565000","3086918","Mongolei","Mongoolia","Mongolie","Mongolië","Mongólia","Mongolia","Монголия","蒙古","Монголия"
+"125","Montserrat","MS","MSR","500","MH","NA",".ms","XCD","-663","NULL","MS","NULL","MH","MSR","Plymouth","102","9341","Montserrat","Montserrat","Montserrat","Montserrat","Montserrat","Montserrat","Монсерат","蒙特塞拉特","Монтсеррат"
+"126","Morocco","MA","MAR","504","MO","AF",".ma","MAD","212","MAR","MA","MA","MO","MAR","Rabat","446550","31627428","Marokko","Maroko","Maroc","Marokko","Marrocos","Marocco","Мароко","摩洛哥","Марокко"
+"127","Mozambique","MZ","MOZ","508","MZ","AF",".mz","MZN","258","MOZ","MZ","MOC","MZ","MOZ","Maputo","801590","22061451","Mosambik","Mosambiik","Mozambique","Mozambique","Moçambique","Mozambico","Мозамбик","莫三比克","Мозамбик"
+"128","Myanmar","MM","MMR","104","BM","AS",".mm","MMK","95","MYA","MM","MYA","BM","MMR","Nay Pyi Taw","678500","53414374","Myanmar","Myanmari","Myanmar","Myanmar","Myanmar","Myanmar","Мианмар","緬甸","Мьянма"
+"129","Namibia","NA","NAM","516","WA","AF",".na","NAD","264","NAM","NA","NAM","WA","NAM","Windhoek","825418","2128471","Namibia","Namiibia","Namibie","Namibië","Namíbia","Namibia","Намибия","納米比亞","Намибия"
+"130","Nauru","NR","NRU","520","NR","OC",".nr","AUD","674","NRU","NR","NAU","NR","NRU","Yaren","21","10065","Nauru","Nauru","Nauru","Nauru","Nauru","Nauru","Науру","瑙魯","Науру"
+"131","Nepal","NP","NPL","524","NP","AS",".np","NPR","977","NEP","NP","NULL","NP","NPL","Kathmandu","140800","28951852","Nepal","Nepal","Népal","Nepal","Nepal","Nepal","Непал","尼泊爾","Непал"
+"132","Netherlands","NL","NLD","528","NL","EU",".nl","EUR","31","NED","NL","NL","NL","NLD","Amsterdam","41526","16645000","Niederlande","Holland","Pays-Bas","Nederland","Países Baixos","Paesi Bassi","Холандия","荷蘭","Нидерланды"
+"133","New Caledonia","NC","NCL","540","NC","OC",".nc","XPF","687","NULL","NC","NCL","NC","NCL","Noumea","19060","216494","Neukaledonien","Uus-Kaledoonia","Nouvelle Calédonie","Nieuw-Caledonië","Nova Caledônia","Nuova Caledonia","Нова Каледония","新赫里多尼亞","Новая Каледония"
+"134","New Zealand","NZ","NZL","554","NZ","OC",".nz","NZD","64","NZL","NZ","NZ","NZ","NZL","Wellington","268680","4252277","Neuseeland","Uus-Meremaa","Nouvelle-Zélande","Nieuw-Zeeland","Nova Zelândia","Nuova Zelanda","Нова Зеландия","紐西蘭","Новая Зеландия"
+"135","Nicaragua","NI","NIC","558","NU","NA",".ni","NIO","505","NCA","NI","NIC","NU","NIC","Managua","129494","5995928","Nicaragua","Nicaragua","Nicaragua","Nicaragua","Nicarágua","Nicaragua","Никарагуа","尼加拉瓜","Никарагуа"
+"136","Niger","NE","NER","562","NG","AF",".ne","XOF","227","NIG","NE","RN","NG","NER","Niamey","1267000","15878271","Niger","Niger","Niger","Niger","Níger","Niger","Нигер","尼日爾","Нигер"
+"137","Nigeria","NG","NGA","566","NI","AF",".ng","NGN","234","NGR","NG","NGR","NI","NGA","Abuja","923768","154000000","Nigeria","Nigeeria","Nigeria","Nigeria","Nigéria","Nigeria","Нигерия","奈及利亞","Нигерия"
+"138","Niue","NU","NIU","570","NE","OC",".nu","NZD","683","NULL","NU","NULL","NE","NIU","Alofi","260","2166","Niue","Niue","Niue","Niue","Niue","Niue","Ниуе","紐埃","Ниуэ"
+"139","Norfolk Island","NF","NFK","574","NF","OC",".nf","AUD","672","NULL","NF","NULL","NF","NFK","Kingston","","1828","Norfolkinsel","Norfolki saar","Île Norfolk","Norfolk Island","Ilha Norfolk","Isola Norfolk","Остров Норфолк","諾福克島","Остров Норфолк"
+"140","Northern Mariana Islands","MP","MNP","580","CQ","OC",".mp","USD","-669","NULL","MP","NULL","CQ","MNP","Saipan","477","53883","Nördliche Marianen","Põhja-Mariaanid","Îles Mariannes du Nord","Noordelijke Marianen","Ilhas Marianas do Norte","Isole Marianne settentrionali","Северни Мариански острови","北馬里安納群島","Северные Марианские острова"
+"141","Norway","NO","NOR","578","NO","EU",".no","NOK","47","NOR","NO","N","NO","NOR","Oslo","324220","5009150","Norwegen","Norra","Norvège","Noorwegen","Noruega","Norvegia","Норвегия","挪威","Норвегия"
+"142","Oman","OM","OMN","512","MU","AS",".om","OMR","968","OMA","OM","OM","MU","OMN","Muscat","212460","2967717","Oman","Omaan","Oman","Oman","Omã","Oman","Оман","阿曼","Оман"
+"143","Pakistan","PK","PAK","586","PK","AS",".pk","PKR","92","PAK","PK","PK","PK","PAK","Islamabad","803940","184404791","Pakistan","Pakistan","Pakistan","Pakistan","Paquistão","Pakistan","Пакистан","巴基斯坦","Пакистан"
+"144","Palau","PW","PLW","585","PS","OC",".pw","USD","680","PLW","PW","PAL","PS","PLW","Melekeok","458","19907","Palau","Palau","Palau","Palau","Palau","Palau","Палау","帕勞","Палау"
+"145","Panama","PA","PAN","591","PM","NA",".pa","PAB","507","PAN","PA","PA","PM","PAN","Panama City","78200","3410676","Panama","Panama","Panama","Panama","Panamá","Panama","Панама","巴拿馬","Панама"
+"146","Papua New Guinea","PG","PNG","598","PP","OC",".pg","PGK","675","PNG","PG","NULL","PP","PNG","Port Moresby","462840","6064515","Papua Neuguinea","Paapua Uus-Guinea","Papouasie-Nouvelle Guinée","Papoea-Nieuw-Guinea","Papua-Nova Guiné","Papua Nuova Guinea","Папуа Нова Гвинея","巴布亞紐幾內亞","Папуа-Новая Гвинея"
+"147","Paraguay","PY","PRY","600","PA","SA",".py","PYG","595","PAR","PY","PY","PA","PRY","Asuncion","406750","6375830","Paraguay","Paraguay","Paraguay","Paraguay","Paraguai","Paraguay","Парагвай","巴拉圭","Парагвай"
+"148","Peru","PE","PER","604","PE","SA",".pe","PEN","51","PER","PE","PE","PE","PER","Lima","1285220","29907003","Peru","Peruu","Pérou","Peru","Peru","Perù","Перу","秘魯","Перу"
+"149","Philippines","PH","PHL","608","RP","AS",".ph","PHP","63","PHI","PH","RP","RP","PHL","Manila","300000","99900177","Philippinen","Filipiinid","Philippines","Filippijnen","Filipinas","Filippine","Филипини","菲律賓","Филиппины"
+"150","Poland","PL","POL","616","PL","EU",".pl","PLN","48","POL","PL","PL","PL","POL","Warsaw","312685","38500000","Polen","Poola","Pologne","Polen","Polônia","Polonia","Полша","波蘭","Польша"
+"151","Portugal","PT","PRT","620","PO","EU",".pt","EUR","351","POR","PT","P","PO","PRT","Lisbon","92391","10676000","Portugal","Portugal","Portugal","Portugal","Portugal","Portogallo","Португалия","葡萄牙","Португалия"
+"152","Puerto Rico","PR","PRI","630","RQ","NA",".pr","USD","-786","PUR","PR","PRI","RQ","PRI","San Juan","9104","3916632","Puerto Rico","Puerto Rico","Porto Rico","Puerto Rico","Porto Rico","Portorico","Пуерто Рико","波多黎各","Пуэрто-Рико"
+"153","Qatar","QA","QAT","634","QA","AS",".qa","QAR","974","QAT","QA","Q","QA","QAT","Doha","11437","840926","Katar","Katar","Qatar","Qatar","Catar","Qatar","Катар","卡塔爾","Катар"
+"154","Republic of the Congo","CG","COG","178","CF","AF",".cg","XAF","242","CGO","CG","RCB","CF","COG","Brazzaville","342000","3039126","Republik Kongo","Kongo Vabariik","République du Congo","Republiek Congo","República do Congo","Repubblica del Congo","Република Конго","剛果共和國","Республика Конго"
+"155","Reunion","RE","REU","638","RE","AF",".re","EUR","262","NULL","RE","NULL","RE","REU","Saint-Denis","2517","776948","Reunion","Kokkutulek","REUNION","Reunion","Reunion","Reunion","Реюнион","團聚","Реюньон"
+"156","Romania","RO","ROU","642","RO","EU",".ro","RON","40","ROU","RO","RO","RO","ROU","Bucharest","237500","21959278","Rumänien","Rumeenia","Roumanie","Roemenië","Romênia","Romania","Румъния","羅馬尼亞","Румыния"
+"158","Russia","RU","RUS","643","RS","EU",".ru","RUB","7","RUS","RU","RUS","RS","RUS","Moscow","17100000","140702000","Russland","Venemaa","Russie","Rusland","Rússia","Russia","Русия","俄羅斯","Россия"
+"159","Rwanda","RW","RWA","646","RW","AF",".rw","RWF","250","RWA","RW","RWA","RW","RWA","Kigali","26338","11055976","Ruanda","Rwanda","Rwanda","Rwanda","Ruanda","Ruanda","Руанда","盧安達","Руанда"
+"160","Saint Helena","SH","SHN","654","SH","AF",".sh","SHP","290","NULL","SH","NULL","SH","SHN","Jamestown","410","7460","St. Helena","Saint Helena","Sainte-Hélène","Sint-Helena","Santa Helena","Saint Helena","Сейнт Елена","聖海倫娜","Остров Святой Елены"
+"161","Saint Kitts and Nevis","KN","KNA","659","SC","NA",".kn","XCD","-868","SKN","KN","NULL","SC","KNA","Basseterre","261","49898","St. Kitts und Nevis","Saint Kittsi ja Nevise","Saint-Kitts-et-Nevis","Saint Kitts en Nevis","São Cristóvão e Nevis","Saint Kitts e Nevis","Сейнт Китс и Невис","聖基茨和尼維斯","Сент-Китс и Невис"
+"162","Saint Lucia","LC","LCA","662","ST","NA",".lc","XCD","-757","LCA","LC","WL","ST","LCA","Castries","616","160922","Saint Lucia","Saint Lucia","Sainte-Lucie","Saint Lucia","Santa Lúcia","Saint Lucia","Сейнт Лусия","聖露西亞","Сент-Люсия"
+"163","Saint Pierre and Miquelon","PM","SPM","666","SB","NA",".pm","EUR","508","NULL","PM","NULL","SB","SPM","Saint-Pierre","242","7012","St. Pierre und Miquelon","Saint Pierre ja Miquelon","Saint Pierre et Miquelon","Saint Pierre en Miquelon","Saint Pierre e Miquelon","Saint Pierre e Miquelon","Сен Пиер и Микелон","聖皮爾和密克隆","Сен-Пьер и Микелон"
+"164","Saint Vincent and the Grenadines","VC","VCT","670","VC","NA",".vc","XCD","-783","VIN","VC","WV","VC","VCT","Kingstown","389","104217","Saint Vincent und die Grenadinen","Saint Vincent ja Grenadiinid","Saint Vincent et les Grenadines","Saint Vincent en de Grenadines","São Vicente e Granadinas","Saint Vincent e Grenadine","Сейнт Винсент и Гренадини","聖文森特和格林納丁斯群島St.Vincent","Сент-Винсент и Гренадины"
+"165","Samoa","WS","WSM","882","WS","OC",".ws","WST","685","SAM","WS","WS","SS","WSM","Apia","2944","192001","Samoa","Samoa","Samoa","Samoa","Samoa","Samoa","Самоа","薩摩亞","Самоа"
+"166","San Marino","SM","SMR","674","SM","EU",".sm","EUR","378","SMR","SM","RSM","SM","SMR","San Marino","","31477","San Marino","San Marino","Saint-Marin","San Marino","San Marino","San Marino","Сан Марино","聖馬利諾","Сан-Марино"
+"167","Saudi Arabia","SA","SAU","682","SA","AS",".sa","SAR","966","KSA","SA","KSA","SA","SAU","Riyadh","1960582","25731776","Saudi-Arabien","Saudi Araabia","Arabie Saoudite","Saudi-Arabië","Arábia Saudita","Arabia Saudita","Саудитска Арабия","沙烏地阿拉伯","Саудовская Аравия"
+"168","Senegal","SN","SEN","686","SG","AF",".sn","XOF","221","SEN","SN","SN","SG","SEN","Dakar","196190","12323252","Senegal","Senegali","Sénégal","Senegal","Senegal","Senegal","Сенегал","塞內加爾","Сенегал"
+"169","Seychelles","SC","SYC","690","SE","AF",".sc","SCR","248","SEY","SC","SY","SE","SYC","Victoria","455","88340","Seychellen","Seišellid","Seychelles","Seychellen","Seychelles","Seychelles","Сейшелски острови","塞席爾","Сейшельские острова"
+"171","Sierra Leone","SL","SLE","694","SL","AF",".sl","SLL","232","SLE","SL","WAL","SL","SLE","Freetown","71740","5245695","Sierra Leone","Sierra Leone","Sierra Leone","Sierra Leone","Serra Leoa","Sierra Leone","Сиера Леоне","塞拉里昂","Сьерра-Леоне"
+"172","Singapore","SG","SGP","702","SN","AS",".sg","SGD","65","SIN","SG","SGP","SN","SGP","Singapur","","4701069","Singapur","Singapur","Singapour","Singapore","Cingapura","Singapore","Сингапур","新加坡","Сингапур"
+"173","Slovakia","SK","SVK","703","LO","EU",".sk","EUR","421","SVK","SK","SK","LO","SVK","Bratislava","48845","5455000","Slowakei","Slovakkia","Slovaquie","Slowakije","Eslováquia","Slovacchia","Словакия","斯洛伐克","Словакия"
+"174","Slovenia","SI","SVN","705","SI","EU",".si","EUR","386","SLO","SI","SLO","SI","SVN","Ljubljana","20273","2007000","Slowenien","Sloveenia","Slovénie","Slovenië","Eslovênia","Slovenia","Словения","斯洛維尼亞","Словения"
+"175","Solomon Islands","SB","SLB","90","BP","OC",".sb","SBD","677","SOL","SB","SOL","BP","SLB","Honiara","28450","559198","Salomonen","Saalomoni saared","Îles Salomon","Solomon Islands","Ilhas Salomão","Isole Salomone","Соломонови острови","索羅門群島","Соломоновы острова"
+"176","Somalia","SO","SOM","706","SO","AF",".so","SOS","252","SOM","SO","SO","SO","SOM","Mogadishu","637657","10112453","Somalia","Somaalia","Somalie","Somalië","Somália","Somalia","Сомалия","索馬里","Сомали"
+"177","South Africa","ZA","ZAF","710","SF","AF",".za","ZAR","27","RSA","ZA","ZA","SF","ZAF","Pretoria","1219912","49000000","Südafrika","Lõuna-Aafrika","Afrique du Sud","Zuid-Afrika","África do Sul","Sud Africa","Южна Африка","南非","Южная Африка"
+"178","Spain","ES","ESP","724","SP","EU",".es","EUR","34","ESP","ES","E","SP","ESP","Madrid","504782","46505963","Spanien","Hispaania","Espagne","Spanje","Espanha","Spagna","Испания","西班牙","Испания"
+"179","Sri Lanka","LK","LKA","144","CE","AS",".lk","LKR","94","SRI","LK","CL","CE","LKA","Colombo","65610","21513990","Sri Lanka","Sri Lanka","Sri Lanka","Sri Lanka","Sri Lanka","Sri Lanka","Шри Ланка","斯里蘭卡","Шри-Ланка"
+"180","Sudan","SD","SDN","729","SU","AF",".sd","SDG","249","SUD","SD","NULL","SU","SDN","Khartoum","1861484","35000000","Sudan","Sudaani","Soudan","Soedan","Sudão","Sudan","Судан","蘇丹","Судан"
+"181","Suriname","SR","SUR","740","NS","SA",".sr","SRD","597","SUR","SR","SME","NS","SUR","Paramaribo","163270","492829","Suriname","Suriname","Suriname","Suriname","Suriname","Suriname","Суринам","蘇利南","Суринам"
+"182","Svalbard and Jan Mayen","SJ","SJM","744","SV","EU",".sj","NOK","47","NULL","SJ","NULL","SV","SJM","Longyearbyen","62049","2550","Svalbard und Jan Mayen","Svalbard ja Jan Mayen","Svalbard et Jan Mayen","Svalbard en Jan Mayen","Svalbard e Jan Mayen","Svalbard e Jan Mayen","Свалбард и Ян Майен","斯瓦爾巴和揚馬延島","Шпицберген и Ян Майен"
+"183","Swaziland","SZ","SWZ","748","WZ","AF",".sz","SZL","268","SWZ","SZ","SD","WZ","SWZ","Mbabane","17363","1354051","Swasiland","Svaasimaa","Swaziland","Swaziland","Suazilândia","Swaziland","Свазиленд","史瓦濟蘭","Свазиленд"
+"184","Sweden","SE","SWE","752","SW","EU",".se","SEK","46","SWE","SE","S","SW","SWE","Stockholm","449964","9045000","Schweden","Rootsi","Suède","Zweden","Suécia","Svezia","Швеция","瑞典","Швеция"
+"185","Switzerland","CH","CHE","756","SZ","EU",".ch","CHF","41","SUI","CH","CH","SZ","CHE","Berne","41290","7581000","Schweiz","Šveits","Suisse","Zwitserland","Suíça","Svizzera","Швейцария","瑞士","Швейцария"
+"186","Syria","SY","SYR","760","SY","AS",".sy","SYP","963","SYR","SY","SYR","SY","SYR","Damascus","185180","22198110","Syrien","Süüria","Syrie","Syrië","Síria","Siria","Сирия","敘利亞","Сирия"
+"187","Tanzania","TZ","TZA","834","TZ","AF",".tz","TZS","255","TAN","TZ","EAT","TZ","TZN","Dodoma","945087","41892895","Tansania","Tansaania","Tanzanie","Tanzania","Tanzânia","Tanzania","Танзания","坦尚尼亞","Танзания"
+"188","Thailand","TH","THA","764","TH","AS",".th","THB","66","THA","TH","T","TH","THA","Bangkok","514000","67089500","Thailand","Tai","Thaïlande","Thailand","Tailândia","Thailandia","Тайланд","泰國","Таиланд"
+"189","Togo","TG","TGO","768","TO","AF",".tg","XOF","228","TOG","TG","RT","TO","TGO","Lome","56785","6587239","Togo","Togo","Togo","Togo","Togo","Togo","Того","多哥","Того"
+"191","Tokelau","TK","TKL","772","TL","OC",".tk","NZD","690","NULL","TK","NULL","TL","TKL","NULL","10","1466","Tokelau","Tokelau","Tokélaou","Tokelau-eilanden","Tokelau","Tokelau","Токелау","托克勞","Токелау"
+"192","Tonga","TO","TON","776","TN","OC",".to","TOP","676","TGA","TO","NULL","TN","TON","Nuku'alofa","748","122580","Tonga","Tonga","Tonga","Tonga","Tonga","Tonga","Тонга","湯加","Тонга"
+"193","Trinidad and Tobago","TT","TTO","780","TD","NA",".tt","TTD","-867","TRI","TT","TT","TD","TTO","Port of Spain","5128","1228691","Trinidad und Tobago","Trinidad ja Tobago","Trinité-et-Tobago","Trinidad enTobago","Trinidad e Tobago","Trinidad e Tobago","Тринидад и Тобаго","特立尼達和多巴哥","Тринидад и Тобаго"
+"194","Tunisia","TN","TUN","788","TS","AF",".tn","TND","216","TUN","TN","TN","TS","TUN","Tunis","163610","10589025","Tunesien","Tuneesia","Tunisie","Tunesië","Tunísia","Tunisia","Тунис","突尼斯","Тунис"
+"195","Turkey","TR","TUR","792","TU","AS",".tr","TRY","90","TUR","TR","TR","TU","TUR","Ankara","780580","77804122","Turkei","Türgi","Turquie","Turkije","Turquia","Turchia","Турция","土耳其","Турция"
+"196","Turkmenistan","TM","TKM","795","TX","AS",".tm","TMT","993","TKM","TM","TM","TX","TKM","Ashgabat","488100","4940916","Turkmenistan","Türkmenistan","Turkménistan","Turkmenistan","Turquemenistão","Turkmenistan","Туркменистан","土庫曼斯坦","Туркменистан"
+"197","Turks and Caicos Islands","TC","TCA","796","TK","NA",".tc","USD","-648","NULL","TC","NULL","TK","TCA","Cockburn Town","430","20556","Turks und Caicos Inseln","Turksi ja Caicose saared","Îles Turques et Caïques","Turks and Caicos Islands","Ilhas Turks e Caicos","Isole Turks e Caicos","Острови Търкс и Кайкос","土克斯及開科斯群島","Острова Теркс и Кайкос"
+"198","Tuvalu","TV","TUV","798","TV","OC",".tv","AUD","688","TUV","TV","TUV","TV","TUV","Funafuti","26","10472","Tuvalu","Tuvalu","Tuvalu","Tuvalu","Tuvalu","Tuvalu","Тувалу","吐瓦魯","Тувалу"
+"199","U.S. Virgin Islands","VI","VIR","850","VQ","NA",".vi","USD","-339","ISV","VI","NULL","VI","VIR","Charlotte Amalie","352","108708","US Virgin Islands","USA Neitsisaared","Îles Vierges américaines","Amerikaanse Maagdeneilanden","Ilhas Virgens americanas","Isole Vergini americane","Американски Вирджински острови","美屬維爾京群島","Виргинские острова, США"
+"200","Uganda","UG","UGA","800","UG","AF",".ug","UGX","256","UGA","UG","EAU","UG","UGA","Kampala","236040","33398682","Uganda","Uganda","Ouganda","Oeganda","Uganda","Uganda","Уганда","烏干達","Уганда"
+"201","Ukraine","UA","UKR","804","UP","EU",".ua","UAH","380","UKR","UA","UA","UP","UKR","Kiev","603700","45415596","Ukraine","Ukraina","Ukraine","Oekraïne","Ucrânia","Ucraina","Украйна","烏克蘭","Украина"
+"202","United Arab Emirates","AE","ARE","784","AE","AS",".ae","AED","971","UAE","AE","UAE","TC","ARE","Abu Dhabi","82880","4975593","Vereinigte Arabische Emirate","Araabia Ühendemiraadid","Émirats Arabes Unis","Verenigde Arabische Emiraten","Emirados Árabes Unidos","Emirati Arabi Uniti","Обединени арабски емирства","阿拉伯聯合大公國","Объединенные Арабские Эмираты"
+"203","United States","US","USA","840","US","NA",".us","USD","1","USA","US","USA","US","USA","Washington","9629091","310232863","USA","Ameerika Ühendriigid","États-Unis","Verenigde Staten","Estados Unidos","Stati Uniti","САЩ","美國","США"
+"204","Uruguay","UY","URY","858","UY","SA",".uy","UYU","598","URU","UY","ROU","UY","URY","Montevideo","176220","3477000","Uruguay","Uruguay","Uruguay","Uruguay","Uruguai","Uruguay","Уругвай","烏拉圭","Уругвай"
+"205","Uzbekistan","UZ","UZB","860","UZ","AS",".uz","UZS","998","UZB","UZ","UZ","UZ","UZB","Tashkent","447400","27865738","Usbekistan","Usbekistan","Ouzbékistan","Oezbekistan","Uzbequistão","Uzbekistan","Узбекистан","烏茲別克斯坦","Узбекистан"
+"206","Vanuatu","VU","VUT","548","NH","OC",".vu","VUV","678","VAN","VU","NULL","NH","VUT","Port Vila","12200","221552","Vanuatu","Vanuatu","Vanuatu","Vanuatu","Vanuatu","Vanuatu","Вануату","瓦努阿圖","Вануату"
+"207","Venezuela","VE","VEN","862","VE","SA",".ve","VEF","58","VEN","VE","YV","VE","VEN","Caracas","912050","27223228","Venezuela","Venezuela","Venezuela","Venezuela","Venezuela","Venezuela","Венецуела","委內瑞拉","Венесуэла"
+"208","Vietnam","VN","VNM","704","VM","AS",".vn","VND","84","VIE","VN","VN","VM","VNM","Hanoi","329560","89571130","Vietnam","Vietnam","Vietnam","Vietnam","Vietname","Vietnam","Виетнам","越南","Вьетнам"
+"209","Western Sahara","EH","ESH","732","WI","AF",".eh","MAD","212","NULL","EH","NULL","WI","ESH","El-Aaiun","266000","273008","Westsahara","Lääne-Sahara","Sahara occidental","Westelijke Sahara","Saara Ocidental","Sahara occidentale","Западна Сахара","西撒哈拉","Западная Сахара"
+"210","Yemen","YE","YEM","887","YM","AS",".ye","YER","967","YEM","YE","YEM","YE","YEM","Sanaa","527970","23495361","Jemen","Jeemen","Yémen","Jemen","Iêmen","Yemen","Йемен","葉門","Йемен"
+"211","Zambia","ZM","ZMB","894","ZA","AF",".zm","ZMK","260","ZAM","ZM","Z","ZA","ZMB","Lusaka","752614","13460305","Sambia","Sambia","Zambie","Zambia","Zâmbia","Zambia","Замбия","尚比亞","Замбия"
+"212","Zimbabwe","ZW","ZWE","716","ZI","AF",".zw","ZWL","263","ZIM","ZW","ZW","ZI","ZWE","Harare","390580","11651858","Zimbabwe","Zimbabwe","Zimbabwe","Zimbabwe","Zimbábue","Zimbabwe","Зимбабве","辛巴威","Зимбабве"
+"213","Netherlands Antilles","AN","ANT","530","NT","NA","","ANG","599","AHO","","NA","NA","ANT","Willemstad","960","136197","Niederländische Antillen
+","","Antilles néerlandaises
+","Nederlandse Antillen
+","Antilhas Holandesas
+","Antille olandesi
+","Холандски Антили
+","荷属安地列斯群岛
+","Нидерландские Антильские острова
+"
+"214","Antarctica","AQ","ATA","010","AY","AN","","","","","AQ","","AY","ATA","","14000000","0","Antarktis
+","","L'Antarctique
+","Antarctica
+","Antártica
+","Antartide
+","Антарктика
+","南极洲
+","Антарктида
+"
+"215","Aland Islands","AX","ALA","248","","EU","","EUR","+358-18","","AX","AX","","","Mariehamn","","26711","Aland-Inseln
+","","Iles Aland
+","Aland eilanden
+","Ilhas Aland
+","Isole Aland
+","Аландските острови
+","奥兰群岛
+","Аландские острова
+"
+"216","Bosnia and Herzegovina","BA","BIH","070","BK","EU","","BAM","387","BIH","BA","BI","BK","BIH","Sarajevo","51129","4590000","Bosnien und Herzegowina
+","","Bosnie-Herzégovine
+","Bosnië-Herzegovina
+","Bósnia e Herzegovina
+","Bosnia ed Erzegovina
+","Босна и Херцеговина
+","波斯尼亚和黑塞哥维那
+","Босния и Герцеговина
+"
+"217","Bahrain","BH","BHR","048","BA","AS","","BHD","973","BRN","BH","BR","BA","BHR","Manama","665","738004","Bahrain
+","","Bahreïn
+","Bahrein
+","Bahrein
+","Bahrein
+","Бахрейн
+","巴林
+","Бахрейн
+"
+"218","Saint Barthelemy","BL","BLM","652","TB","NA","","EUR","590","","BL","","","","Gustavia","21","8450","Saint Barthelemy
+","","Saint-Barthélemy
+","Saint Barthelemy
+","Saint Barthelemy
+","Saint Barthelemy
+","Сен Бартелми
+","圣巴泰勒米
+","Сен-Бартелеми
+"
+"219","Bonaire, Saint Eustatius and Saba ","BQ","BES","535","","NA","","USD","599","","BQ","","","","","","18012","Bonaire, St. Eustatius und Saba 
+","","Bonaire, Saint Eustache et Saba 
+","Bonaire, Sint Eustatius en Saba 
+","Bonaire, Santo Eustáquio e Saba 
+","Bonaire, Saint Eustatius e Saba 
+","Бонер, Сейнт Еустатиус и Саба 
+","博奈尔岛、 圣尤斯特歇斯岛和萨巴
+","Бонайре, Сен-Эстатиус и Саба 
+"
+"220","Bouvet Island","BV","BVT","074","BV","AN","","NOK","","","","","BV","BVT","","","0","Bouvet-Insel
+","","Île Bouvet
+","Bouvet eiland
+","Ilha Bouvet
+","Isola di Bouvet
+","Буве
+","布维岛
+","Остров Буве
+"
+"221","Cocos Islands","CC","CCK","166","CK","AS","","AUD","61","","CC","","CK","CCK","West Island","14","628","Kokosinseln","","Îles Cocos
+","Cocos Eilanden
+","Ilhas Cocos
+","Isole Cocos
+","Кокосови острови
+","科科斯群岛
+","Кокосовые острова
+"
+"222","Ivory Coast","CI","CIV","384","IV","AF","","XOF","225","CIV","CI","CI","IV","CIV","Yamoussoukro","322460","21058798","Côte d ' Ivoire
+","","Côte d'Ivoire
+","Ivoorkust
+","Costa do Marfim
+","Costa d'Avorio
+","Кот д ' Ивоар
+","象牙海岸
+","Берег слоновой кости
+"
+"223","Cameroon","CM","CMR","120","CM","AF","","XAF","237","CMR","CM","CA","CM","CMR","Yaounde","475440","19294149","Kamerun
+","","Cameroun
+","Kameroen
+","Camarões
+","Camerun
+","Камерун
+","喀麦隆
+","Камерун
+"
+"224","China","CN","CHN","156","CH","AS","","CNY","86","CHN","CN","CH","CH","CHN","Beijing","9596960","1330044000","China
+","","Chine
+","China
+","China
+","Cina
+","Китай
+","中国
+","Китай
+"
+"225","Serbia and Montenegro","CS","SCG","891","YI","EU","","RSD","381","SCG","","","","SCG","Belgrade","102350","10829175","Serbien und Montenegro
+","","Serbie et Monténégro
+","Servië en Montenegro
+","Sérvia e Montenegro
+","Serbia e Montenegro
+","Сърбия и Черна гора
+","塞尔维亚和黑山
+","Сербия и Черногория
+"
+"226","Curacao","CW","CUW","531","UC","NA","","ANG","599","","CW","","",""," Willemstad","","141766","Curacao
+","","Curacao
+","Curacao
+","Curaçao
+","Curacao
+","Кюрасао
+","库拉索岛
+","Кюрасао
+"
+"227","Christmas Island","CX","CXR","162","KT","AS","","AUD","61","","CX","","KT","CXR","Flying Fish Cove","135","1500","Weihnachtsinsel
+","","Île Christmas
+","Christmaseiland
+","Ilha Christmas
+","Isola di Natale
+","Коледа остров
+","圣诞岛
+","Остров Рождества
+"
+"228","Micronesia","FM","FSM","583","FM","OC","","USD","691","FSM","FM","FS","FM","FSM","Palikir","702","107708","Mikronesien
+","","Micronésie
+","Micronesia
+","Micronésia
+","Micronesia
+","Микронезия
+","密克罗尼西亚联邦
+","Микронезия
+"
+"229","United Kingdom","GB","GBR","826","UK","EU","","GBP","44","GBR","GB","GB","UK","GBR","London","244820","62348447","Vereinigtes Königreich
+","","Royaume-Uni
+","Verenigd Koninkrijk
+","Reino Unido
+","Regno Unito
+","Обединено кралство
+","英国
+","Великобритания
+"
+"230","French Guiana","GF","GUF","254","FG","SA","","EUR","594","","GF","","","","Cayenne","91000","195506","Französisch-Guayana
+","","Guyane française
+","Frans-Guyana
+","Guiana francesa
+","Guiana francese
+","Френска Гвиана
+","法属圭亚那
+","Французская Гвиана
+"
+"231","Guernsey","GG","GGY","831","GK","EU","","GBP","+44-1481","","GG","GB","","","St Peter Port","78","65228","Guernsey
+","","Guernesey
+","Guernsey
+","Guernsey
+","Guernsey
+","Гърнси
+","耿西金融岛
+","Гернси
+"
+"232","Gambia","GM","GMB","270","GA","AF","","GMD","220","GAM","GM","WA","GA","GMB","Banjul","11300","1593256","Gambia
+","","Gambie
+","Gambia
+","Gâmbia
+","Gambia
+","Гамбия
+","冈比亚
+","Гамбия
+"
+"233","South Georgia and the South Sandwich Islands","GS","SGS","239","SX","AN","","GBP","","","GS","","SX","SGS","Grytviken","3903","30","Südgeorgien und die südlichen Sandwichinseln
+","","Géorgie du Sud et îles Sandwich du Sud
+","Zuid-Georgië en de Zuidelijke Sandwicheilanden
+","Geórgia do Sul e Ilhas Sandwich do Sul
+","Georgia del sud e Isole Sandwich Meridionali
+","Южна Джорджия и Южни Сандвичеви острови
+","南乔治亚岛和南桑威奇群岛
+","Южная Георгия и южных Сандвичевых островов
+"
+"234","Heard Island and McDonald Islands","HM","HMD","334","HM","AN","","AUD","","","HM","","HM","HMD","","412","0","Heard und McDonald Inseln
+","","Île Heard et îles McDonald
+","Heard Island en McDonald Islands
+","Ilha Heard e Ilhas McDonald
+","Isole Heard e McDonald
+","Остров Хърд и острови Макдоналд
+","赫德岛和麦克唐纳群岛
+","Остров Херд и острова Макдональд
+"
+"235","Isle of Man","IM","IMN","833","IM","EU","","GBP","+44-1624","","IM","","","","Douglas, Isle of Man","572","75049","Isle Of Man
+","","Île de Man
+","Isle of Man
+","Ilha de Man
+","Isola di Man
+","Остров Ман
+","马恩岛
+","Остров Мэн
+"
+"236","British Indian Ocean Territory","IO","IOT","086","IO","AS","","USD","246","","IO","","IO","IOT","Diego Garcia","60","4000","Britisches Territorium im Indischen Ozean
+","","British Indian Ocean Territory
+","Brits Indische Oceaan Territorium
+","Território britânico do Oceano Índico
+","Dell'Oceano Indiano, territorio britannico dell'oceano indiano
+","Британска територия в Индийския океан
+","英属印度洋领地
+","Британская территория Индийского океана
+"
+"237","Jersey","JE","JEY","832","JE","EU","","GBP","+44-1534","","JE","GB","","","Saint Helier","116","90812","Jersey
+","","Jersey
+","Jersey
+","Jersey
+","Jersey
+","Джърси
+","泽西岛
+","Джерси
+"
+"238","North Korea","KP","PRK","408","KN","AS","","KPW","850","PRK","KP","KP","KN","PRK","Pyongyang","120540","22912177","Nordkorea
+","","La Corée du Nord
+","Noord-Korea
+","Coreia do Norte
+","Corea del Nord
+","Северна Корея
+","朝鲜
+","Северная Корея
+"
+"239","South Korea","KR","KOR","410","KS","AS","","KRW","82","KOR","KR","RO","KS","KOR","Seoul","98480","48422644","Südkorea
+","","Corée du Sud
+","Zuid-Korea
+","Coreia do Sul
+","Corea del sud
+","Южна Корея
+","韩国
+","Южная Корея
+"
+"240","Moldova","MD","MDA","498","MD","EU","","MDL","373","MDA","MD","MD","MD","MDA","Chisinau","33843","4324000","Moldawien
+","","Moldavie
+","Moldavië
+","Moldávia
+","Moldova
+","Молдова
+","摩尔多瓦
+","Молдова
+"
+"241","Montenegro","ME","MNE","499","MJ","EU","","EUR","382","MNE","ME","MN","","","Podgorica","14026","666730","Montenegro
+","","Monténégro
+","Montenegro
+","Montenegro
+","Montenegro
+","Черна гора
+","黑山
+","Черногория
+"
+"242","Saint Martin","MF","MAF","663","RN","NA","","EUR","590","","MF","","","","Marigot","53","35925","Saint-Martin
+","","Saint-Martin
+","Saint Martin
+","Saint Martin
+","Saint Martin
+","Сен Мартен
+","圣马丁
+","Сен-Мартен
+"
+"243","Macedonia","MK","MKD","807","MK","EU","","MKD","389","MKD","MK","MK","FY","FYR","Skopje","25333","2061000","Mazedonien
+","","Macédoine
+","Macedonië
+","Macedónia
+","Macedonia
+","Македония
+","马其顿
+","Македония
+"
+"244","Macao","MO","MAC","446","MC","AS","","MOP","853","","MO","","MC","MAC","Macao","254","449198","Macao
+","","Macao
+","Macao
+","Macau
+","Macao
+","Макао
+","澳门
+","Макао
+"
+"245","Pitcairn","PN","PCN","612","PC","OC","","NZD","870","","PN","","PC","PCN","Adamstown","47","46","Pitcairn
+","","Pitcairn
+","Pitcairn
+","Pitcairn
+","Pitcairn
+","Питкерн
+","皮特凯恩
+","Питкэрн
+"
+"246","Palestinian Territory","PS","PSE","275","WE","AS","","ILS","970","PLE","PS","WB","PS","PSE","East Jerusalem","5970","3800000","Palästinensische Gebiete
+","","Territoire palestinien
+","Palestijnse gebieden
+","Território palestino
+","Territorio palestinese
+","Палестинска територия
+","巴勒斯坦领土
+","Палестинской территории
+"
+"247","Serbia","RS","SRB","688","RI","EU","","RSD","381","SRB","RS","RS","","","Belgrade","88361","7344847","Serbien
+","","Serbie
+","Servië
+","Sérvia","Serbia
+","Сърбия
+","塞尔维亚
+","Сербия
+"
+"248","South Sudan","SS","SSD","728","OD","AF","","SSP","211","","SS","SS","","","Juba","644329","8260490","Süd-Sudan
+","","Sud-Soudan
+","Zuid-Soedan
+","Sudão do Sul
+","Sud Sudan
+","Южен Судан
+","南苏丹
+","Южный Судан
+"
+"249","Sao Tome and Principe","ST","STP","678","TP","AF","","STD","239","STP","ST","ST","","","Sao Tome","1001","175808","Sao Tome und Principe
+","","Sao Tomé et Principe
+","Sao Tome en Principe
+","São Tomé e Príncipe
+","Sao Tomè e Principe
+","Сао Томе и Принсипи
+","圣多美和普林西比
+","Сан-Томе и Принсипи
+"
+"250","Sint Maarten","SX","SXM","534","NN","NA","","ANG","599","","SX","","","","Philipsburg","","37429","Sint Maarten
+","","Sint Maarten
+","Sint Maarten
+","Sint Maarten
+","Sint Maarten
+","Синт Мартен
+","圣马丁
+","Синт-Мартен
+"
+"251","French Southern Territories","TF","ATF","260","FS","AN","","EUR","","","TF","","FS","ATF","Port-aux-Francais","7829","140","Französische Süd-und Antarktisgebiete
+","","Terres australes françaises
+","Frans Zuidelijk Terrotorium
+","Territórios franceses do Sul
+","Territori francesi meridionali
+","Френски южни територии
+","法国南部地区
+","Французские Южные территории
+"
+"252","Tajikistan","TJ","TJK","762","TI","AS","","TJS","992","TJK","TJ","TJ","","","Dushanbe","143100","7487489","Tadschikistan
+","","Tadjikistan
+","Tadzjikistan
+","Tajiquistão
+","Tagikistan
+","Таджикистан
+","塔吉克斯坦
+","Таджикистан
+"
+"253","East Timor","TL","TLS","626","TT","OC","","USD","670","TLS","TL","TL","TM","TLS","Dili","15007","1154625","Ost-Timor
+","","Timor oriental
+","Oost-Timor
+","Timor-Leste
+","Timor est
+","Източен Тимор
+","东帝汶
+","Восточный Тимор
+"
+"254","Taiwan","TW","TWN","158","TW","AS","","TWD","886","","TW","RC","TW","TWN","Taipei","35980","22894384","Taiwan
+","","Taiwan
+","Taiwan
+","Taiwan
+","Taiwan
+","Тайван
+","台湾
+","Тайвань
+"
+"255","United States Minor Outlying Islands","UM","UMI","581","","OC","","USD","1","","UM","","IQ","UMI","","0","0","United States Minor Outlying Islands
+","","Îles mineures éloignées des États-Unis
+","Kleine afgelegen eilanden van Verenigde Staten
+","Estados Unidos ilhas menores distantes
+","Isole minori degli Stati Uniti
+","Малки далечни острови на САЩ
+","美国小离岛
+","Малые Удалённые Острова США
+"
+"256","Vatican","VA","VAT","336","VT","EU","","EUR","379","","VA","V","VT","VAT","Vatican City","0.44","921","Vatikan
+","","Vatican
+","Vaticaan
+","Vaticano","Vaticano
+","Ватикана
+","梵蒂冈
+","Ватикан
+"
+"257","Wallis and Futuna","WF","WLF","876","WF","OC","","XPF","681","","WF","","","","Mata Utu","274","16025","Wallis und Futuna
+","","Wallis et Futuna
+","Wallis en Futuna
+","Wallis e Futuna
+","Wallis e Futuna
+","Уолис и Футуна
+","瓦利斯群岛和富图纳群岛
+","Уоллис и Футуна
+"
+"258","Kosovo","XK","XKX","0","KV","EU","","EUR","","","","RK","","","Pristina","","1800000","Kosovo
+","","Kosovo
+","Kosovo
+","Kosovo
+","Kosovo
+","Косово
+","科索沃
+","Косово
+"
